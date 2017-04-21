@@ -2,11 +2,11 @@
 title: "Course Project Reproductible Research Week 2"
 author: "Pablo Villamichel"
 date: "4/17/2017"
-output: html_document
+output: html_document; md_document
 ---
 
 ```{r setup, include=TRUE}
-knitr::opts_chunk$set(fig.path = "./figures/")
+knitr::opts_chunk$set(fig.path = "./")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
